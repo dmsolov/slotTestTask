@@ -1,1 +1,2 @@
-# slotTestTask
+npm i
+npm start
